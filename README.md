@@ -1,4 +1,12 @@
-### Hi there 👋
+Hello Everyone 👋
+
+I’ve always been a great problem solver, an independent introvert, and a technophile obsessed with the latest Tech. Today, I’m working from home as a software engineer and I get to show off all these elements of who I am.
+
+I started learning to code when I was in college, though i have more focus on exploring other domains . After a college education in Computer Science, and continuing to practice programming, I realized software engineering was the right field for me.
+
+Since then, I’ve worked on countless projects and have been involved with a handful of notable startups. Today, I’m working as a SDE with the amazing team and am getting into Blockchain on my own time.
+
+I’m familiar with a variety of programming languages, including NextJs, Solidity, CSS, Python, Java, jQuery, Tailwind CSS but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers in the area, so feel free to connect!
 
 <!--
 **karlexvoid/karlexvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
