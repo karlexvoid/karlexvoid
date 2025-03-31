@@ -3,29 +3,29 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
   
 
 <br/>  
-<style>
-  .skills-section {
-    margin-bottom: 30px;
-  }
+<head>
+  <style>
+    .skills-section {
+      margin-bottom: 30px;
+    }
+    .skills-title {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .skills-container {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 15px; /* Adjust spacing between icons */
+    }
+    .skills-container img {
+      height: 50px; /* Fixed height */
+      max-width: 50px; /* Ensures icons don't get too large */
+    }
+  </style>
+</head>
 
-  .skills-title {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-
-  .skills-container {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 15px; /* Adjust spacing between icons */
-  }
-
-  .skills-container img {
-    height: 50px;  /* Fixed height */
-    max-width: 50px; /* Ensures icons don't get too large */
-  }
-</style>
 
 
 
