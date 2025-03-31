@@ -74,23 +74,6 @@ let’s connect -
 <br/>  
 
 
-## Frontend
-
-| ![React](react.svg) | ![Bootstrap](bootstrap.svg) | ![CSS3](css3.svg) | ![JavaScript](js.svg) | ![TypeScript](ts.svg) | ![Angular](angular.svg) | ![Tailwind](tailwind.svg) | ![Next.js](nextjs.svg) | ![jQuery](jquery.svg) | ![HTML5](html5.svg) |
-|---|---|---|---|---|---|---|---|---|---|
-| React | Bootstrap | CSS3 | JavaScript | TypeScript | Angular | Tailwind | Next.js | jQuery | HTML5 |
-
-## Backend
-
-| ![PHP](php.svg) | ![Node.js](nodejs.svg) | ![Express](express.svg) | ![Java](java.svg) | ![Spring Boot](springboot.svg) |
-|---|---|---|---|---|
-| PHP | Node.js | Express.js | Java | Spring Boot |
-
-## DevOps
-
-| ![AWS](aws.svg) | ![Linux](linux.svg) | ![Git](git.svg) | ![MongoDB](mongodb.svg) | ![XAMPP](xampp.svg) | ![Firebase](firebase.svg) | ![Redis](redis.svg) | ![MySQL](mysql.svg) | ![Kafka](kafka.svg) | ![TensorFlow](tensorflow.svg) |
-|---|---|---|---|---|---|---|---|---|---|
-| AWS | Linux | Git | MongoDB | XAMPP | Firebase | Redis | MySQL | Kafka | TensorFlow |
 
 
 
