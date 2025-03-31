@@ -1,8 +1,6 @@
 I’m a Software Development Engineer (SDE) with a passion for problem-solving and building scalable solutions. I have been programming since 2020 and earned my Computer Science degree in 2022.<br>
 With experience in diverse projects, I enjoy tackling complex challenges, continuously learning, and refining my skills to stay ahead in the ever-evolving tech landscape. Always open to discussions and collaborations<br>  
-let’s connect - 
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-sharma-07481520a/" target="_blank">
+let’s connect - &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-sharma-07481520a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/u/abhishek_karlex/" target="_blank">
