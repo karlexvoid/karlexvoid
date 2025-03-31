@@ -5,6 +5,7 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
 <br/>  
 
 ## My Skill Set  
+
 <table align="left">
   <!-- Frontend Section -->
   <tr>
@@ -64,6 +65,7 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
 
 
 ## Connect with me  
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-sharma-07481520a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
