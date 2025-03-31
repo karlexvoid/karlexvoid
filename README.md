@@ -5,28 +5,6 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
 <br/>  
 
 
-<style>
-  .skills-section {
-    margin-bottom: 30px;
-  }
-
-  .skills-title {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-
-  .skills-container {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px; /* Adds space between logos */
-  }
-
-  .skills-container img {
-    height: 50px;
-  }
-</style>
 
 <div class="skills-section">
   <div class="skills-title">Frontend</div>
