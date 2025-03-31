@@ -12,11 +12,11 @@ let’s connect -
 </br>
 </br>
 </br>
-</br>
 
 
 
-<table align="left">
+
+<table align="left" border="0">
   <!-- Frontend Section -->
   <tr>
     <td align="center" width="10%"><h3>Frontend</h3></td>
