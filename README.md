@@ -8,8 +8,8 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
   <!-- Frontend Section -->
 
   <tr>
-    <td align="center" colspan="10" ><h3>Frontend</h3></td>
-    <td align="center">
+    <td align="center" width="10%"><h3>Frontend</h3></td>
+    <td align="center"  width="90%">
       <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>&nbsp;&nbsp;&nbsp;
       <a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>&nbsp;&nbsp;&nbsp;
