@@ -5,10 +5,9 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
 <br/>  
 
 <table align="center">
-  <!-- Frontend Section -->
 
-  <tr>
-   
+
+  <tr></tr>
     <td align="center">
       <h3>Frontend</h3>
       <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>&nbsp;&nbsp;&nbsp;
