@@ -26,7 +26,7 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
 
   <tr>
     <td align="center" width="10%"><h3>Backend</h3></td>
-    <td align="center"  width="90%">
+    <td align="right"  width="90%">
       <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>&nbsp;&nbsp;&nbsp;
       <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>&nbsp;&nbsp;&nbsp;
       <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>&nbsp;&nbsp;&nbsp;
