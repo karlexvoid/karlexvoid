@@ -5,21 +5,33 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
 <br/>  
 
 <table align="center">
-
-
-  <tr></tr>
+  <!-- Frontend Section -->
+  <tr>
+    <td align="center"><h3>Frontend</h3></td>
+  </tr>
+  <tr>
     <td align="center">
-      <h3>Frontend</h3>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://jquery.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+      <div align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" /> <br> React
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap" /> <br> Bootstrap
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" alt="CSS3" /> <br> CSS3
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" /> <br> JavaScript
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript" /> <br> TypeScript
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" height="50" alt="Angular" /> <br> Angular
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind" /> <br> Tailwind
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" alt="Next.js" /> <br> Next.js
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="50" alt="jQuery" /> <br> jQuery
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5" /> <br> HTML5
+      </div>
     </td>
   </tr>
 
@@ -29,12 +41,17 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://spring.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
+      <div align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" alt="PHP" /> <br> PHP
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js" /> <br> Node.js
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" alt="Express.js" /> <br> Express.js
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java" /> <br> Java
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" alt="Spring Boot" /> <br> Spring Boot
+      </div>
     </td>
   </tr>
 
@@ -44,17 +61,27 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
   </tr>
   <tr>
     <td align="center">
-      <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://redis.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://kafka.apache.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
+      <div align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" /> <br> AWS
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" /> <br> Linux
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" /> <br> Git
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB" /> <br> MongoDB
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" height="50" alt="XAMPP" /> <br> XAMPP
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" alt="Firebase" /> <br> Firebase
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50" alt="Redis" /> <br> Redis
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL" /> <br> MySQL
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" height="50" alt="Kafka" /> <br> Kafka
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50" alt="TensorFlow" /> <br> TensorFlow
+      </div>
     </td>
   </tr>
 </table>
