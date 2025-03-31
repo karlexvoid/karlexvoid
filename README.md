@@ -11,7 +11,7 @@ let’s connect -
 
 </br>
 
-# My Skill Set  
+
 
 <table align="left">
   <!-- Frontend Section -->
