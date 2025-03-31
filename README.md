@@ -4,7 +4,8 @@ With experience in diverse projects, I enjoy tackling complex challenges, contin
 
 <br/>  
 
-<table align="center">
+## My Skill Set  
+<table align="left">
   <!-- Frontend Section -->
   <tr>
     <td align="center" width="10%"><h3>Frontend</h3></td>
